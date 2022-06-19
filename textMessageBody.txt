@@ -1,0 +1,1 @@
+this is parrot's bulk mailer script done with python
